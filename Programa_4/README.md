@@ -1,7 +1,7 @@
-# PROJETO 5 - EFEITO DE ILUMINAÇÂO SEQUENCIAL COM LEDS
+# PROJETO 4 - SEMÁFOTO INTERATIVO
 Componentes necessários:
 
-<img width="517" height="105" alt="Screenshot 2025-09-03 151448" src="https://github.com/user-attachments/assets/3d670af8-5b76-4252-83de-9c17dc09df18" />
+<img width="504" height="379" alt="image" src="https://github.com/user-attachments/assets/c0a5637c-a117-4036-a163-06607697f215" />
 
 Além desses componentes da imagem são necessários:
 - Jumpers Machos para conectar a placa e a protoboard
@@ -9,4 +9,4 @@ Além desses componentes da imagem são necessários:
 
 # CIRCUITO NA PROTOBOARD
 
-<img width="592" height="426" alt="image" src="https://github.com/user-attachments/assets/d121deff-402d-487c-b2dd-47d9b97d71f5" />
+<img width="411" height="352" alt="image" src="https://github.com/user-attachments/assets/6872d8b5-8f0d-471e-a70e-1180c63a1983" />
