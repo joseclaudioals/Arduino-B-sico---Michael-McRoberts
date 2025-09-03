@@ -1,2 +1,2 @@
-# Arduino-B-sico---Michael-McRoberts
+# Arduino-Básico---Michael-McRoberts
 Repositório destinado as atividades e projetos do livro "Arduino Básico"
